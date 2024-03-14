@@ -1,8 +1,16 @@
 ## 🔗 Biblioteca CyberSecurity
 📚 Biblioteca de Livros úteis para área de Cibersegurança e Segurança da Informação.
 
+#### *"Information wants to be [free](https://en.wikipedia.org/wiki/Information_wants_to_be_free)"*
+
+## 💡Como Contribuir?
+
 Está é uma biblioteca pública onde você também pode contribuir sugerindo novos livros e dando 
 sugestões de melhorias [cliquando aqui](https://github.com/luisfelipe146/Biblioteca-CyberSecurity/issues).
+
+Você também pode contribuir realizando um fork do projeto:
+
+`teste`
 
 ## Categorias de Livros Disponíveis
 
