@@ -8,9 +8,7 @@
 Está é uma biblioteca pública onde você também pode contribuir sugerindo novos livros e dando 
 sugestões de melhorias [cliquando aqui](https://github.com/luisfelipe146/Biblioteca-CyberSecurity/issues).
 
-Você também pode contribuir realizando um fork do projeto:
-
-`teste`
+Você também pode contribuir realizando um fork do projeto.
 
 ## Categorias de Livros Disponíveis
 
